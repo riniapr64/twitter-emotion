@@ -1,0 +1,15 @@
+salah,benar
+tdk,tidak
+bs,bisa
+jln,jalan
+gak,tidak
+ga,tidak
+dpt,dapat
+yg,yang
+kalo,kalau
+gue,saya
+aku,saya
+udah,sudah
+tp,tapi
+td,tidak
+km,kamu
